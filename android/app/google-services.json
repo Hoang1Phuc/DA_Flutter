@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055470085649",
+    "project_id": "flutterproject-ebd95",
+    "storage_bucket": "flutterproject-ebd95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055470085649:android:6250504a3eb6dc47a833b0",
+        "android_client_info": {
+          "package_name": "hutechvn.furniture_app_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4iUjUW2jUZXaxvOWJntsOMK3iVE8BBm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
